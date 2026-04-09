@@ -82843,7 +82843,7 @@ const Q2e = new mhe({
                             }),
                           }),
                           U.jsx("a", {
-                            href: "https://t.me/HanaTheInu",
+                            href: "https://t.me/Hanathedog",
                             className: "cursor-pointer",
                             target: "_blank",
                             rel: "noreferrer",
@@ -82913,7 +82913,7 @@ const Q2e = new mhe({
                             }),
                           }),
                           U.jsx("a", {
-                            href: "https://t.me/HanaTheInu",
+                            href: "https://t.me/Hanathedog",
                             className: "cursor-pointer",
                             target: "_blank",
                             rel: "noreferrer",
