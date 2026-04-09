@@ -55975,7 +55975,7 @@ function MA(e) {
 async function Mde({ hash: e, signature: t }) {
   return Pde(await $de({ hash: e, signature: t }));
 }
-const _de = `Ethereum Signed Message:
+const _de = `Solana Signed Message:
 `;
 function Nde(e) {
   const t =
@@ -58472,7 +58472,7 @@ function Lfe(e) {
   };
 }
 const Ffe =
-    /^(?:(?<scheme>[a-zA-Z][a-zA-Z0-9+-.]*):\/\/)?(?<domain>[a-zA-Z0-9+-.]*(?::[0-9]{1,5})?) (?:wants you to sign in with your Ethereum account:\n)(?<address>0x[a-fA-F0-9]{40})\n\n(?:(?<statement>.*)\n\n)?/,
+    /^(?:(?<scheme>[a-zA-Z][a-zA-Z0-9+-.]*):\/\/)?(?<domain>[a-zA-Z0-9+-.]*(?::[0-9]{1,5})?) (?:wants you to sign in with your Solana account:\n)(?<address>0x[a-fA-F0-9]{40})\n\n(?:(?<statement>.*)\n\n)?/,
   Dfe =
     /(?:URI: (?<uri>.+))\n(?:Version: (?<version>.+))\n(?:Chain ID: (?<chainId>\d+))\n(?:Nonce: (?<nonce>[a-zA-Z0-9]+))\n(?:Issued At: (?<issuedAt>.+))(?:\nExpiration Time: (?<expirationTime>.+))?(?:\nNot Before: (?<notBefore>.+))?(?:\nRequest ID: (?<requestId>.+))?/;
 function zfe(e) {
@@ -65621,7 +65621,7 @@ const mO = { contracts: m0e, formatters: g0e, serializers: y0e },
   }),
   fp = Rl({
     id: 1,
-    name: "Ethereum",
+    name: "Solana",
     nativeCurrency: { name: "Ether", symbol: "ETH", decimals: 18 },
     rpcUrls: { default: { http: ["https://cloudflare-eth.com"] } },
     blockExplorers: {
@@ -68255,7 +68255,7 @@ var M3 = `{
     "description": "A wallet is used to send, receive, store, and display digital assets. It's also a new way to log in, without needing to create new accounts and passwords on every website.",
     "digital_asset": {
       "title": "A Home for your Digital Assets",
-      "description": "Wallets are used to send, receive, store, and display digital assets like Ethereum and NFTs."
+      "description": "Wallets are used to send, receive, store, and display digital assets like Solana and NFTs."
     },
     "login": {
       "title": "A New Way to Log In",
@@ -68291,7 +68291,7 @@ var M3 = `{
     "label": "Connect",
     "title": "Connect a Wallet",
     "new_to_ethereum": {
-      "description": "New to Ethereum wallets?",
+      "description": "New to Solana wallets?",
       "learn_more": {
         "label": "Learn More"
       }
@@ -68380,7 +68380,7 @@ var M3 = `{
     "short_title": "Get %{wallet}",
     "mobile": {
       "title": "%{wallet} for Mobile",
-      "description": "Use the mobile wallet to explore the world of Ethereum.",
+      "description": "Use the mobile wallet to explore the world of Solana.",
       "download": {
         "label": "Get the app"
       }
@@ -69314,7 +69314,7 @@ var M3 = `{
           "description": "We recommend pinning Talisman to your taskbar for quicker access to your wallet."
         },
         "step2": {
-          "title": "Create or Import an Ethereum Wallet",
+          "title": "Create or Import an Solana Wallet",
           "description": "Be sure to back up your wallet using a secure method. Never share your recovery phrase with anyone."
         },
         "step3": {
@@ -76707,7 +76707,7 @@ var Kb = {
     klaytn: { chainId: 8217, name: "Klaytn", ...YO },
     klaytnBaobab: { chainId: 1001, name: "Klaytn Baobab", ...YO },
     localhost: { chainId: 1337, ...aa },
-    mainnet: { chainId: 1, name: "Ethereum", ...aa },
+    mainnet: { chainId: 1, name: "Solana", ...aa },
     manta: { chainId: 169, name: "Manta", ...Xb },
     mantaSepolia: { chainId: 3441006, ...Xb },
     mantaTestnet: { chainId: 3441005, ...Xb },
@@ -82831,7 +82831,7 @@ const Q2e = new mhe({
                           "flex w-full flex-row-reverse items-center justify-center gap-2",
                         children: [
                           U.jsx("a", {
-                            href: "https://x.com/HanaTheInu",
+                            href: "https://x.com/Hanathedog_x",
                             className: "cursor-pointer",
                             target: "_blank",
                             rel: "noreferrer",
@@ -82902,7 +82902,7 @@ const Q2e = new mhe({
                           "flex w-full flex-row-reverse items-center justify-center gap-2",
                         children: [
                           U.jsx("a", {
-                            href: "https://x.com/HanaTheInu",
+                            href: "https://x.com/Hanathedog_x",
                             className: "cursor-pointer0",
                             target: "_blank",
                             rel: "noreferrer",
@@ -82987,7 +82987,7 @@ const Q2e = new mhe({
           children: U.jsx("div", {
             className: "flex flex-row items-center gap-1",
             children: U.jsx("a", {
-              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8493b6acf48e96e4fc7b675cd4360c7083eac4ba&chain=mainnet",
+              href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=TBA",
               target: "_blank",
               rel: "noreferrer",
               children: U.jsx("button", {
@@ -83239,14 +83239,14 @@ const Q2e = new mhe({
                 U.jsx("p", {
                   className:
                     "text-center text-lg font-normal leading-[120%] text-zinc-600 max-2xl:text-base max-xl:leading-[110%] max-lg:text-sm",
-                  children: `Woof, woof! HANA, the Akita with a heart of gold, spent nearly a decade waiting at Shibuya Station for his late owner, proving that true loyalty never dies. From Japan’s gold heart to Ethereum’s meme scene, HANA the Dog is here!
+                  children: `Woof, woof! HANA, the Akita with a heart of gold, spent nearly a decade waiting at Shibuya Station for his late owner, proving that true loyalty never dies. From Japan’s gold heart to Solana’s meme scene, HANA the Dog is here!
 `,
                 }),
                 U.jsx("p", {
                   className:
                     "text-center text-lg font-normal leading-[120%] text-zinc-600 max-2xl:text-base max-xl:leading-[110%] max-lg:text-sm",
                   children:
-                    "Just like HANA’s tail never stopped wagging, HANA The Dog is here to lead you to boundless faith in crypto and memecoins on Ethereum, keeping you hooked on $HANA every single day.",
+                    "Just like HANA’s tail never stopped wagging, HANA The Dog is here to lead you to boundless faith in crypto and memecoins on Solana, keeping you hooked on $HANA every single day.",
                 }),
               ],
             }),

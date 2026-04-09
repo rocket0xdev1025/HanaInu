@@ -8381,7 +8381,7 @@ const _c = G5();
 new Set(Gc(_c)), new Set(Gc(_c)), z5(_c), V5(_c);
 const W5 = new Uint8Array(32);
 W5.fill(0);
-const Y5 = `Ethereum Signed Message:
+const Y5 = `Solana Signed Message:
 `;
 function g1(r) {
   return (
@@ -11034,7 +11034,7 @@ async function fp(r) {
   return await V8(u, a, i, L1(s.iss), e);
 }
 const q1 = (r, t) => {
-  const e = `${r.domain} wants you to sign in with your Ethereum account:`,
+  const e = `${r.domain} wants you to sign in with your Solana account:`,
     i = Yc(t);
   if (!r.aud && !r.uri)
     throw new Error(
