@@ -82987,7 +82987,7 @@ const Q2e = new mhe({
           children: U.jsx("div", {
             className: "flex flex-row items-center gap-1",
             children: U.jsx("a", {
-              href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=TBA",
+              href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=8u8g93eEuXpe2SsUFAHGdr94irDLATpafjVipAMbpump",
               target: "_blank",
               rel: "noreferrer",
               children: U.jsx("button", {
@@ -83247,6 +83247,12 @@ const Q2e = new mhe({
                     "text-center text-lg font-normal leading-[120%] text-zinc-600 max-2xl:text-base max-xl:leading-[110%] max-lg:text-sm",
                   children:
                     "Just like HANA’s tail never stopped wagging, HANA The Dog is here to lead you to boundless faith in crypto and memecoins on Solana, keeping you hooked on $HANA every single day.",
+                }),
+                U.jsx("p", {
+                  className:
+                    "text-center text-lg font-normal leading-[120%] text-zinc-600 max-2xl:text-base max-xl:leading-[110%] max-lg:text-sm",
+                  children:
+                    "8u8g93eEuXpe2SsUFAHGdr94irDLATpafjVipAMbpump",
                 }),
               ],
             }),
