@@ -82953,7 +82953,7 @@ const Q2e = new mhe({
               U.jsx("p", {
                 className:
                   "text-lg !font-normal leading-[144.444%] text-zinc-400 max-md:text-sm",
-                children: "© ハナちゃん the Dog 2026 | All rights reserved",
+                children: "© ハナちゃ the Dog 2026 | All rights reserved",
               }),
             ],
           }),
@@ -83033,7 +83033,7 @@ const Q2e = new mhe({
           children: [
             U.jsx(nr, {
               src: "/images/logo-text1.png",
-              alt: "ハナちゃん the dog",
+              alt: "ハナちゃ the dog",
               className:
                 "absolute left-[18.55vw] max-w-[44.43vw] bg-cover bg-no-repeat object-center max-2xl:left-[18.4vw] max-2xl:max-w-[44.1vw] max-md:hidden",
             }),
@@ -83059,7 +83059,7 @@ const Q2e = new mhe({
             "z-0 -mt-5 flex w-full justify-center bg-[#8CE5F5] py-16 md:hidden",
           children: U.jsx(nr, {
             src: "/images/logo_text_mb_v2.png ",
-            alt: "ハナちゃん the dog",
+            alt: "ハナちゃ the dog",
             className: "",
           }),
         }),
@@ -83177,7 +83177,7 @@ const Q2e = new mhe({
   r2 = [
     {
       title: "Total Supply",
-      sub: "Our token’s got a paws-itively massive supply of 1,000,000,000 tokens. One billion reasons to stay loyal to $ハナちゃん!",
+      sub: "Our token’s got a paws-itively massive supply of 1,000,000,000 tokens. One billion reasons to stay loyal to $ハナちゃ!",
       icon: "/images/supply.png",
       iconMB: "/images/ic-supply-mb1.png",
       sub2: "That’s a whole lot of love and loyalty packed into every digital bite!",
@@ -83231,7 +83231,7 @@ const Q2e = new mhe({
             U.jsx("p", {
               className:
                 "font-kg max-fhd:text-[2.25rem] text-center text-[4rem] font-normal leading-[131.25%] text-black max-lg:text-[2rem]",
-              children: "What is ハナちゃん the Dog",
+              children: "What is ハナちゃ the Dog",
             }),
             U.jsxs("div", {
               className: "flex flex-col gap-4 max-2xl:gap-3",
@@ -83239,14 +83239,14 @@ const Q2e = new mhe({
                 U.jsx("p", {
                   className:
                     "text-center text-lg font-normal leading-[120%] text-zinc-600 max-2xl:text-base max-xl:leading-[110%] max-lg:text-sm",
-                  children: `Woof, woof! ハナちゃん, the Akita with a heart of gold, spent nearly a decade waiting at Shibuya Station for his late owner, proving that true loyalty never dies. From Japan’s gold heart to Solana’s meme scene, ハナちゃん the Dog is here!
+                  children: `Woof, woof! ハナちゃ, the Akita with a heart of gold, spent nearly a decade waiting at Shibuya Station for his late owner, proving that true loyalty never dies. From Japan’s gold heart to Solana’s meme scene, ハナちゃ the Dog is here!
 `,
                 }),
                 U.jsx("p", {
                   className:
                     "text-center text-lg font-normal leading-[120%] text-zinc-600 max-2xl:text-base max-xl:leading-[110%] max-lg:text-sm",
                   children:
-                    "Just like ハナちゃん’s tail never stopped wagging, ハナちゃん The Dog is here to lead you to boundless faith in crypto and memecoins on Solana, keeping you hooked on $ハナちゃん every single day.",
+                    "Just like ハナちゃん’s tail never stopped wagging, ハナちゃ The Dog is here to lead you to boundless faith in crypto and memecoins on Solana, keeping you hooked on $ハナちゃ every single day.",
                 }),
                 U.jsx("p", {
                   className:
