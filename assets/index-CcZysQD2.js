@@ -82987,7 +82987,7 @@ const Q2e = new mhe({
           children: U.jsx("div", {
             className: "flex flex-row items-center gap-1",
             children: U.jsx("a", {
-              href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=TBA",
+              href: "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=D5rxbQeHRQ7GtHzg7APh44wt15g3FKFXhvyCCuFMpump",
               target: "_blank",
               rel: "noreferrer",
               children: U.jsx("button", {
@@ -83252,7 +83252,7 @@ const Q2e = new mhe({
                   className:
                     "text-center text-lg font-normal leading-[120%] text-zinc-600 max-2xl:text-base max-xl:leading-[110%] max-lg:text-sm",
                   children:
-                    "TBA",
+                    "D5rxbQeHRQ7GtHzg7APh44wt15g3FKFXhvyCCuFMpump",
                 }),
               ],
             }),
